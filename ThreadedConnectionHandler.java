@@ -2,7 +2,7 @@
  * See: ee402.eeng.dcu.ie
  */
 
-package ee402;
+package ee402test;
 
 import java.net.*;
 import java.io.*;
